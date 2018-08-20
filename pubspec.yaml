@@ -11,7 +11,8 @@ dependencies:
   flutter_custom_tabs:
     git: https://github.com/droibit/flutter_custom_tabs.git
   html: "^0.13.3"
-  cached_network_image: "^0.4.0"
+  cached_network_image:
+    git: https://github.com/acudworth/flutter_cached_network_image.git
   video_player: "^0.6.4"
 
 
